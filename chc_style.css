@@ -1,0 +1,26 @@
+body	{margin: 2em 9em 1.3em; background: #acd4e9; font: 14pt/18pt Georgia; color: #103750;}
+
+h1	{font-size: 36pt; line-height: 40pt;}
+h2	{font-size: 24pt; line-height: 27pt;}
+h3	{font-size: 18pt; line-height: 20pt;}
+h4	{font-size: 16pt; line-height: 17pt;}
+
+hr	{width: 94%;}
+img	{border: 0; padding: 1em;}
+
+.ctr	{text-align: center;}
+.em  	{font-weight: bold;}
+.ital	{font-style: italic;}
+.sup	{vertical-align: super; font-size: 80%; line-height: 50%;}
+.smcap	{font-size: 80%; line-height: 80%;}
+.line       {text-decoration: line-through;}
+.fatmarg  {margin: 0em 7em;}
+.purp	{color: #402;}
+
+#hideme {color: #acd4e9;}
+#invis	{visibility: hidden;}
+
+a:link	{color: #172; font-weight: bold;}
+a:active	 {color: #ba6; font-weight: bold;}
+a:visited {color: #158; font-weight: bold;}
+
